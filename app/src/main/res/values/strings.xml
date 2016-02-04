@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="login">Login ID/Email ID</string>
+</resources>
